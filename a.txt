@@ -1,1 +1,1 @@
-Sample file merging in git1
+Sample file merging in git2
