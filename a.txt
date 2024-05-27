@@ -1,3 +1,2 @@
 Sample file merging in git2
 New line added directly from the github itself
-Another line added
